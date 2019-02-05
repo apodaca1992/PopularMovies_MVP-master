@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular movies</string>
+    <string name="themoviedb_api_key">YOUR_API_KEY</string>
+
+    <!--Discovery screen-->
+    <string name="message_no_internet">Make sure you are connected to the internet, then try again.</string>
+    <string name="button_retry">Retry</string>
+    <string name="action_sort">Sort</string>
+    <string name="message_sort_by_most_popular">Movies sorted by most popular</string>
+    <string name="message_sort_by_top_rated">Movies sorted by top rated</string>
+    <string name="message_no_favorites">It seems you currently don\'t have any saved movies.</string>
+
+    <!--Details screen-->
+    <string name="movie_poster_description">Movie poster</string>
+    <string name="release_date">Released in %s</string>
+    <string name="vote_average">Rating: %s</string>
+    <string name="movie_overview">Overview</string>
+    <string name="dummy_overview">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="movie_trailers">Trailers</string>
+    <string name="message_no_trailers">It seems there are currently no trailers for this movie. Try again soon!</string>
+    <string name="play_trailer">Play trailer</string>
+    <string name="message_trailer_cannot_be_played">Sorry, you cannot play this video. Your device cannot play videos or open web pages.</string>
+    <string name="movie_reviews">Reviews</string>
+    <string name="message_no_internet_connection">No internet connexion. Please retry once you have one.</string>
+    <string name="button_no_internet_connection">Retry</string>
+    <string name="message_no_reviews">It seems there are currently no reviews for this movie. Try again soon!</string>
+    <string name="message_movie_saved">Movie added to favorites</string>
+    <string name="message_movie_unsaved">Movie removed from favorites</string>
+    <string name="message_no_movie_detail">Click on a movie to display it\'s details</string>
+
+</resources>
